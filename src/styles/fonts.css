@@ -1,0 +1,79 @@
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lekton-regular {
+    font-family: "Lekton", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lekton-bold {
+    font-family: "Lekton", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lekton-regular-italic {
+    font-family: "Lekton", monospace;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-mono-heavy {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.roboto-mono-heavy-italic {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.roboto-mono-light {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-mono-light-italic {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.roboto-mono-regular {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-mono-regular-italic {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-mono-medium {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-mono-medium-italic {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: italic;
+}
