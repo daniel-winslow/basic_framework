@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import Navbar from './components/Navbar/Navbar';
 import LayoutShowcase from './pages/LayoutShowcase';
 import ComponentsShowcase from './pages/ComponentsShowcase';
 
@@ -12,7 +11,6 @@ const App = () => {
   return (
     <>
       <div className="roboto-mono-regular">
-        <Navbar currentPage={currentPage as 'layouts' | 'components'} />
         {/* Main Content */}
         {currentPage === 'layouts' ? (
           <LayoutShowcase />
