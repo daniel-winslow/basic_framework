@@ -1,4 +1,4 @@
-name: Validate PR to Master
+name: Validate PRs to Master
 
 on:
   pull_request:
