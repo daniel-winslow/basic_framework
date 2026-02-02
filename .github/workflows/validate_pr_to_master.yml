@@ -22,7 +22,8 @@ jobs:
           if [[ "$SOURCE_BRANCH" != "release" ]]; then
             echo "Pull requests to master must come from the 'release' branch."
             exit 1
+          fi
 
           echo "Branch check passed."
-            exit 0
+          exit 0
 
