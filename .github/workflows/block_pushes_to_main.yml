@@ -9,7 +9,7 @@ jobs:
   block-direct-push:
     runs-on: ubuntu-latest
     steps:
-        - name: Prevent direct pushes to master
-            run: |
+      - name: Prevent direct pushes to masterrun
+        run: |
             echo "Direct pushes to the master branch are not allowed. Please create a pull request instead."
             exit 1
